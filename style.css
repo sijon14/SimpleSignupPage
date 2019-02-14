@@ -1,0 +1,60 @@
+
+body, html {
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	font-family: 'helvetica', sans-serif; 
+}
+
+hr {
+	border-width: 4px;
+	color: white;
+}
+
+header.startup hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+}
+
+header.startup h1 {
+  font-size: 2rem; 
+}
+
+
+
+header.startup {
+  background-position: center;
+  background-image: url("header.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+.btn {
+  font-weight: 400;
+  border-radius: 40px;
+  font-family: 'helvetica', sans-serif;
+}
+
+.btn-xl {
+  padding: 2rem 3rem; 
+}
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
+
+.btn-primary:hover {
+  background-color: green;
+  border-color: green;
+  border-width: 1px;
+  cursor: pointer;
+}
+.btn-primary:active {
+  background-color: green;
+ 
+}
+
+  
+
